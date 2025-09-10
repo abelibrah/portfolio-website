@@ -15,4 +15,4 @@ A simple portfolio website to showcase my skills, projects, and contact informat
 - Contact form with validation
 
 ## Deployment
-Deployed via GitHub Pages: [Live Link Here](https://abelibrah.github.io/portfolio-website/)
+Deployed via GitHub Pages: [https://abelibrah.github.io/portfolio-website/](https://abelibrah.github.io/portfolio-website/)
